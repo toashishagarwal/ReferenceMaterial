@@ -83,5 +83,6 @@ uv pip install "django>=4.0,<5.0"
 deactivate
 ```
 
+![Alt text](img/uv_pip.png)
 
 
